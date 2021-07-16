@@ -1,0 +1,11 @@
+[Adblock Plus 2.0]
+||paid.outbrain.com^
+||traffic.outbrain.com^
+||www.outbrain.com^
+||outbrain.com^
+||vrt.outbrain.com^
+||amplify.outbrain.com^
+||outbrainimg.com^
+||widgets.outbrain.com^
+||taboola.com^
+||creatives.rockabox.co^
