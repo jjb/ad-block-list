@@ -9,4 +9,3 @@
 ||widgets.outbrain.com^
 ||taboola.com^
 ||creatives.rockabox.co^
-||bunnycdn.ru^
