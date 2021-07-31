@@ -10,3 +10,4 @@
 ||taboola.com^
 ||creatives.rockabox.co^
 ||googlesyndication.com^
+||googleadservices.com^
