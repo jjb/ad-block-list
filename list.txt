@@ -11,3 +11,7 @@
 ||creatives.rockabox.co^
 ||googlesyndication.com^
 ||googleadservices.com^
+! Hide the 'What's happening' sidebar on Twitter.com
+twitter.com##*[aria-label="Timeline: Trending now"]
+! Hide the 'Topics to follow' sidebar on Twitter.com
+twitter.com##*[aria-label="Timeline: "]
