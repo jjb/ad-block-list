@@ -12,4 +12,4 @@
 ||googlesyndication.com^
 ||googleadservices.com^
 twitter.com,api.twitter.com##div[aria-label="Timeline: Trending now"]
-twitter.com,api.twitter.com##div[aria-label="Who to follow"]
+twitter.com,api.twitter.com##aside[aria-label="Who to follow"]
