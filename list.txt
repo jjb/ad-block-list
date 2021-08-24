@@ -11,5 +11,4 @@
 ||creatives.rockabox.co^
 ||googlesyndication.com^
 ||googleadservices.com^
-twitter.com##div[aria-label='Timeline: Trending now']
-##div[aria-label='Timeline: Trending now']
+twitter.com,api.twitter.com##div[aria-label='Timeline: Trending now']
