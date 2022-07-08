@@ -13,5 +13,3 @@
 ||googleadservices.com^
 twitter.com,api.twitter.com##div[aria-label="Timeline: Trending now"]
 twitter.com,api.twitter.com##aside[aria-label="Who to follow"]
-www.youtube.com##ytd-display-ad-renderer
-www.youtube.com##.ytd-rich-item-renderer
