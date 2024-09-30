@@ -17,3 +17,4 @@ www.youtube.com##div.ytd-display-ad-renderer
 www.youtube.com##div.ytd-ad-slot-renderer
 www.youtube.com##ytd-in-feed-ad-layout-renderer
 www.youtube.com##ytd-ad-slot-renderer
+1password.com##div.whats-new-frame
