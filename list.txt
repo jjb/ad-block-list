@@ -11,7 +11,7 @@
 ||creatives.rockabox.co^
 ||googlesyndication.com^
 ||googleadservices.com^
-||1password.com##div[class*="whats-new-frame"]
+1password.com##div[class*="whats-new-frame"]
 twitter.com,api.twitter.com##div[aria-label="Timeline: Trending now"]
 twitter.com,api.twitter.com##aside[aria-label="Who to follow"]
 www.youtube.com##div.ytd-display-ad-renderer
